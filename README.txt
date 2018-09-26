@@ -8,3 +8,6 @@ note: Source Code is only available for educational purpose , plz dont use it fo
 
 You can see our other Products on following Link
 http://upturnit.com/product.php
+
+Now I am changing the just README file and this is not something we are going to be working on in long run as this sound more prolific and we are here to 
+begin this new journey to surround.
