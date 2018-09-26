@@ -4,5 +4,10 @@ Believe you me, this is not the end of the world.
 This is to be tested on the websit and then we can run our own program here and there. 
 This is a absolutely an prolific opportunity. 
 
+<<<<<<< HEAD
 Now I am adding some text to the same file and checking what will happen if I am doing this again and again this is not the time to discuss this
 As we are all here and we are not going to be here today.
+=======
+I am chaging this too as I dont know what else we could do to protect this. 
+We need to try and see how this work and we are not testing this again and again. 
+>>>>>>> 2d5ab6f43adbc461608c60af04c8162002ea5c6f
